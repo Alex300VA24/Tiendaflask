@@ -1,0 +1,11 @@
+# Byte compiled / Optimezed / DLL (Dinamy Link Library)
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Enviroments
+
+env/
+.env
+texto.txt
